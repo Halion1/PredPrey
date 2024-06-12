@@ -41,6 +41,8 @@ The model made considered a shift in the conduct of both predators. We consider 
 	trial=[N; M; prey];
 	end
 
+![image1](FinalResult.png)
+
 What we can see is that the population of both predators start growing up rapidly when they are in a small quantity. But, after a period when the threshold b1 or b2 is passed then their population stops their upgrowth, and they begin to decrease because of the competition. Afterwards, their population number crosses again the threshold, and they begin to rise. The reason for this is that they return to the mutualism model.
 
 
